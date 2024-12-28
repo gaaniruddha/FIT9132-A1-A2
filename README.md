@@ -1,4 +1,4 @@
-**Creating a conceptual and logical model and performing normalisation to 33NF for the sample data**
+**Creating a conceptual and logical model and performing normalisation to 3NF for the sample data**
 
 - FIT9132-TDS-Ass1-CaseStudy.pdf: Assignment 1 specifications. 
 - FIT9132-TDS-Ass2-CaseStudy-v1.2.pdf: Assignment 2 specifications. 
